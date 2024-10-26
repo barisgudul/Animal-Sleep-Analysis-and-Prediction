@@ -86,6 +86,7 @@ This class generates visualizations to compare the actual and predicted sleep du
 
 ### Grouped Barplot: Actual vs Predicted Sleep Durations  
 (Replace this placeholder with your generated plot after running the code.)
+![Grouped Barplot](plot.png)
 
 ---
 
