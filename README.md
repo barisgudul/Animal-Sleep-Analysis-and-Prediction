@@ -23,11 +23,11 @@ This project aims to **analyze and predict the sleep duration of animals** using
 
 ## Project Structure
 
-. ├── main.py # Main script to run the project 
-. ├── sleep_predictor.py # Handles data processing and prediction tasks 
-. ├── sleep_plotter.py # Handles data visualization tasks 
-. ├── msleep.csv # Dataset used for the project 
-. └── README.md # Documentation for the project
+. ├── main.py # Main script to run the project <br>
+. ├── sleep_predictor.py # Handles data processing and prediction tasks <br>
+. ├── sleep_plotter.py # Handles data visualization tasks <br>
+. ├── msleep.csv # Dataset used for the project <br>
+. └── README.md # Documentation for the project <br>
 
 
 ---
