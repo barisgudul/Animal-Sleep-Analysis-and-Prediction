@@ -12,7 +12,6 @@ This project aims to **analyze and predict the sleep duration of animals** using
 - [Project Structure](#project-structure)
 - [Installation](#installation)
 - [Dataset](#dataset)
-- [How to Run](#how-to-run)
 - [Classes and Methods](#classes-and-methods)
   - [SleepPredictor Class](#1-sleeppredictor-class)
   - [SleepPlotter Class](#2-sleepplotter-class)
@@ -24,7 +23,11 @@ This project aims to **analyze and predict the sleep duration of animals** using
 
 ## Project Structure
 
-. ├── main.py # Main script to run the project ├── sleep_predictor.py # Handles data processing and prediction tasks ├── sleep_plotter.py # Handles data visualization tasks ├── msleep.csv # Dataset used for the project └── README.md # Documentation for the project
+. ├── main.py # Main script to run the project 
+. ├── sleep_predictor.py # Handles data processing and prediction tasks 
+. ├── sleep_plotter.py # Handles data visualization tasks 
+. ├── msleep.csv # Dataset used for the project 
+. └── README.md # Documentation for the project
 
 
 ---
