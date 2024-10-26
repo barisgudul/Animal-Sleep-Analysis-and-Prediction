@@ -16,6 +16,7 @@ This project aims to **analyze and predict the sleep duration of animals** using
   - [SleepPredictor Class](#1-sleeppredictor-class)
   - [SleepPlotter Class](#2-sleepplotter-class)
 - [Example Output](#example-output)
+  - [Grouped Barplot](#grouped-barplot)
 - [Performance Metrics](#performance-metrics)
 
 
@@ -86,6 +87,10 @@ This class generates visualizations to compare the actual and predicted sleep du
 
 ### Grouped Barplot: Actual vs Predicted Sleep Durations  
 (Replace this placeholder with your generated plot after running the code.)
+
+---
+
+### Grouped BarPlot
 ![Grouped Barplot](plot.png)
 
 ---
