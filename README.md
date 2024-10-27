@@ -37,8 +37,9 @@ This project aims to **analyze and predict the sleep duration of animals** using
 
 1. **Clone the repository**:
    ```bash
-   git clone <your-repo-url>
-   cd <your-repo-folder>
+   git clone https://github.com/barisgudul/Animal-Sleep-Analysis-and-Prediction.git
+   cd Animal-Sleep-Analysis-and-Prediction
+
 pip install pandas numpy matplotlib seaborn scikit-learn
 
 ---
