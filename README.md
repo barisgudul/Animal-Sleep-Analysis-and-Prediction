@@ -87,8 +87,9 @@ This class generates visualizations to compare the actual and predicted sleep du
 ## Example Output
 
 ### Grouped Barplot: Actual vs Predicted Sleep Durations  
-(Replace this placeholder with your generated plot after running the code.)
-
+``
+MSE: 4.932793472037019, MAE: 1.84622086508597, R² Score: 0.7249470735765364
+``
 ---
 
 ### Grouped BarPlot
